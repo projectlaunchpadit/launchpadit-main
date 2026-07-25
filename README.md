@@ -12,4 +12,4 @@ Welcome to the Module 1 Sandbox environment!
 ### Step 2: Deploy to the Cloud
 Click the button below to instantly deploy your live website. 
 
-Deploy with Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/projectlaunchpadit/launchpadit-main)
